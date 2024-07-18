@@ -1,0 +1,15 @@
+Cinzento claro
+	HSV - 0 0 0.434
+	RGB - 0.434 0.434 0.434
+Cinzento escuro
+	HSV - 0 0 0.109
+	RGB - 0.109 0.109 0.109
+Magenta
+	HSV - 0.833 1 1
+	RGB - 1 0 1
+Ciano
+	HSV - 0.5 1 1
+	RGB - 0 1 1
+Amarelo
+	HSV - 0.142 1 0.8
+	RGB - 0.8 0.68 0
